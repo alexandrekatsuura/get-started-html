@@ -86,6 +86,70 @@
     <p>Parágrafo</p>
 </section>
 ```
+
+* strong
+```
+<strong>Texto em negrito.</strong>
+```
+
+* br
+```
+<p>Texto está em uma linha.<br>
+    Texto está em outra linha.
+</p>
+```
+
+* table
+```
+<table>
+    <caption>Exemplo de tabela</caption>
+    <tr>
+        <th>Coluna 1</th>
+        <th>Coluna 2</th>
+    </tr>
+    <tr>
+        <td>Coluna 1 Linha 1</td>
+        <td>Coluna 2 Linha 1</td>
+    </tr>
+    <tr>
+        <td>Coluna 1 Linha 2</td>
+        <td>Coluna 2 Linha 2</td>
+    </tr>
+</table>
+```
+
+* label
+```
+<label>Nome:</label>
+```
+
+* input
+```
+<input type="text" id="exemplo_input" name="exemplo_input">
+```
+
+* button
+```
+<button type="submit">Enviar</button>
+```
+
+* form
+```
+<form>
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" name="nome" required>
+    <br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <br>
+    <button type="submit">Enviar</button>
+</form>
+```
+
+* span
+```
+<span>Este é um texto em destaque.</span>
+```
         
 ## Exemplos de Estrutura
 ```
