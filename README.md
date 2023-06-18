@@ -80,3 +80,42 @@
 </div>
 ```
 
+* section
+```
+<section>
+    <p>Parágrafo</p>
+</section>
+```
+        
+## Exemplos de Estrutura
+```
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Título da Página</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <header>
+        <p>Header</p>
+    </header>
+
+    <main>
+        <p>Main</p>
+    </main>
+    
+    <footer>
+        <p>Footer</p>
+    </footer>
+</body>
+</html>
+```
+
+* `<!DOCTYPE html>` - declara o tipo de documento como HTML5.
+* `<html>` - elemento raiz que envolve todo o conteúdo da página.
+* `<head>` - contém metadados, como o título da página, a codificação de caracteres, descrição e palavras-chave.
+* `<body>` - é o corpo principal da página, onde o conteúdo visível é colocado.
+* `<header>` - cabeçalho da página e contém o logotipo ou título do site, juntamente com uma barra de navegação.
+* `<main>` - é a seção principal do conteúdo da página.
+* `<footer>` - é a área de rodapé da página e geralmente contém informações de direitos autorais.
