@@ -9,3 +9,9 @@
 
 ## Descrição
 > HTML é uma linguagem de marcação utilizada para estruturar o conteúdo de páginas da web.
+
+## Conceitos importantes
+* Tags
+* Elementos
+* Atributos
+* Estrutura
