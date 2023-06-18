@@ -37,5 +37,46 @@
 <h5>Título 5</h5>
 
 <h6>Título 6</h6>
-
 ```
+
+* p
+```
+<p>Parágrafo</p>
+```
+
+* a
+```
+<a href="https://www.exemplo.com">link</a>
+```
+
+* img
+```
+<img src="caminho_da_imagem.jpg" alt="Descrição da imagem">
+```
+
+* ul e li (lista não ordenada)
+```
+<ul>
+    <li>Lista item 1</li>
+    <li>Lista item 2</li>
+    <li>Lista item 3</li>
+</ul>
+```
+
+* ol e li (lista ordenada)
+```
+<ol>
+    <li>Primeiro item</li>
+    <li>Segundo item</li>
+    <li>Terceiro item</li>
+</ol>
+```
+
+* div
+```
+<div>
+    <h3>Título da Divisão</h3>
+    <p>Conteúdo da divisão.</p>
+</div>
+```
+
